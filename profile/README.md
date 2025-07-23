@@ -4,7 +4,7 @@
 
 ## 🧠 About the Software
 
-**3DCoat** is a comprehensive digital sculpting and texturing application designed by Pilgway. It combines high-end tools for voxel sculpting, polygonal modeling, retopology, UV mapping, PBR texture painting, and GPU rendering in a unified workspace :contentReference[oaicite:0]{index=0}. Artists and designers can freely experiment during a 30-day full-feature trial, after which an unlimited *Learning Mode* remains available for non-commercial use :contentReference[oaicite:1]{index=1}.
+**3DCoat** is a comprehensive digital sculpting and texturing application designed by Pilgway. It combines high-end tools for voxel sculpting, polygonal modeling, retopology, UV mapping, PBR texture painting, and GPU rendering in a unified workspace. Artists and designers can freely experiment during a 30-day full-feature trial, after which an unlimited *Learning Mode* remains available for non-commercial use :contentReference.
 
 This guide walks you through how to download and install **3DCoat** for free, including information on its trial modes, educational benefits, and offline setup.
 
